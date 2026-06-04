@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>💻 DIEGO HERRERA ZILLI</h1>
-  <b>Software Engineering Student | Backend Developer</b>
+  <!-- ANIMACIÓN PRINCIPAL -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Diego+Herrera+Zilli;Software+Engineering+Student;Backend+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 
   <p>
     <i>Construyendo arquitecturas backend robustas, escalables y orientadas a la nube.</i>
@@ -25,17 +25,17 @@
 
 ---
 
-### 👤 `whoami`
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=400&lines=%3E+whoami" alt="whoami command" />
 
-Estudiante de Ingeniería de Software (9no Cuatrimestre) enfocado en la creación de arquitecturas **Backend**, la gestión en la nube y la implementación eficiente de **Estructuras de Datos**. Orientado a la resolución de problemas técnicos complejos y en búsqueda activa de retos a nivel internacional.
+Estudiante de Ingeniería de Software (9no Cuatrimestre) enfocado en la creación de arquitecturas **Backend**, la automatización en la nube y la implementación eficiente de **Estructuras de Datos**. Orientado a la resolución de problemas técnicos complejos y en búsqueda activa de retos internacionales.
 
 - 🎓 **Educación:** Universidad Tecnológica del Centro de Veracruz (UTCV). Candidato a Beca de Movilidad (Universidad Politécnica de Madrid).
 - 🗣️ **Idiomas:** Español (Nativo) | Inglés (Preparación activa para certificación TOEFL / Cambridge).
-- 🎯 **Objetivos:** Pasantías en la industria tecnológica, Cloud Computing y desarrollo de sistemas de alto rendimiento.
+- 🎯 **Objetivos:** Pasantías en la industria automotriz/tecnológica, Cloud Computing y desarrollo de sistemas de alto rendimiento.
 
 ---
 
-### 💻 `Technical Arsenal`
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=400&lines=%3E+.%2Fshow_tech_arsenal.sh" alt="tech arsenal command" />
 
 <div align="center">
   <table>
@@ -66,7 +66,7 @@ Estudiante de Ingeniería de Software (9no Cuatrimestre) enfocado en la creació
 
 ---
 
-### 🚀 `Current Operations`
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=FFFFFF&vCenter=true&width=400&lines=%3E+ps+aux+%7C+grep+projects" alt="projects command" />
 
 | 📂 Project / Focus | 🛠️ Tech Stack | 🎯 Status |
 | :--- | :--- | :--- |
