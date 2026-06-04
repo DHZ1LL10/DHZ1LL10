@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💻 DIEGO HERRERA ZILLI
-**Software Engineering Student @ UTCV | Backend Developer**
+**Software Engineering Student | Backend Developer**
 
 *«La simplicidad es el prerrequisito para la confiabilidad.» — Edsger W. Dijkstra*
 
@@ -23,30 +23,19 @@
 
 ### 🚀 `ps aux | grep projects`
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>🏗️ Procesos Activos (PID)</b><br><br>
-      - Desarrollando <b>MHG-Inventory</b> (SaaS, FastAPI, Docker).<br>
-      - Construyendo la <b>API de Huerto Connect</b>.<br>
-      - Preparación para certificación <b>AWS Cloud Practitioner</b>.
-    </td>
-    <td valign="top" width="50%">
-      <b>📡 Rutas de Red</b><br><br>
-      - 📍 Fortín / Córdoba, Veracruz<br>
-      - 🎓 UTCV - Cuitláhuac<br>
-      - ✉️ zillidiego8@gmail.com
-    </td>
-  </tr>
-</table>
+| 🏗️ Procesos Activos (PID) | 📡 Rutas de Red |
+| :--- | :--- |
+| - Desarrollando **MHG-Inventory** (SaaS, FastAPI, Docker).<br>- Construyendo la **API de Huerto Connect**.<br>- Preparación para certificación **AWS Cloud Practitioner**. | - 📍 Fortín / Córdoba, Veracruz<br>- 🎓 UTCV - Cuitláhuac<br>- ✉️ zillidiego8@gmail.com |
 
 ---
 
 ### 📊 `/var/log/github_stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHZ1LL10&show_icons=true&theme=radical&bg_color=00000000&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true&border_radius=0" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHZ1LL10&layout=compact&theme=radical&bg_color=00000000&title_color=ffffff&text_color=b3b3b3&hide_border=true&border_radius=0" alt="Top Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DHZ1LL10&show_icons=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHZ1LL10&layout=compact&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=b3b3b3&hide_border=true" alt="Top Lenguajes" />
 </p>
 
 </div>
