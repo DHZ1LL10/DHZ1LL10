@@ -1,6 +1,11 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Diego+Herrera+Zilli;Backend+Developer;Cloud+%26+DevOps+Enthusiast;Software+Engineering+Student" alt="Typing SVG" />
+  <h1>💻 DIEGO HERRERA ZILLI</h1>
+  <b>Software Engineering Student | Backend Developer</b>
+
+  <p>
+    <i>Construyendo arquitecturas backend robustas, escalables y orientadas a la nube.</i>
+  </p>
 
   <p align="center">
     <a href="mailto:zillidiego8@gmail.com">
@@ -17,6 +22,16 @@
   > *"La simplicidad es el prerrequisito para la confiabilidad."* — **Edsger W. Dijkstra**
 
 </div>
+
+---
+
+### 👤 `whoami`
+
+Estudiante de Ingeniería de Software (9no Cuatrimestre) enfocado en la creación de arquitecturas **Backend**, la gestión en la nube y la implementación eficiente de **Estructuras de Datos**. Orientado a la resolución de problemas técnicos complejos y en búsqueda activa de retos a nivel internacional.
+
+- 🎓 **Educación:** Universidad Tecnológica del Centro de Veracruz (UTCV). Candidato a Beca de Movilidad (Universidad Politécnica de Madrid).
+- 🗣️ **Idiomas:** Español (Nativo) | Inglés (Preparación activa para certificación TOEFL / Cambridge).
+- 🎯 **Objetivos:** Pasantías en la industria tecnológica, Cloud Computing y desarrollo de sistemas de alto rendimiento.
 
 ---
 
@@ -57,14 +72,5 @@
 | :--- | :--- | :--- |
 | **MHG-Inventory** (SaaS System) | `FastAPI` `Docker` `Python` | 🟢 In Development |
 | **Huerto Connect API** | `Python` `APIs` | 🤝 Collaborating |
+| **Data Structures & Algorithms**| `Logic` `Problem Solving` | 🧠 Active Curriculum |
 | **AWS Cloud Practitioner** | `AWS` `Cloud Computing` | 📚 Certification Prep |
-
----
-
-### 📈 `GitHub Activity`
-*(Nota: Si GitHub bloquea la carga de las estadísticas, esta sección se mantendrá con un fondo oscuro nativo)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHZ1LL10&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHZ1LL10&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=b3b3b3&hide_border=true" alt="Top Lenguajes" width="48%" />
-</div>
