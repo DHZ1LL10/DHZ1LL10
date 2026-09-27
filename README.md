@@ -60,61 +60,37 @@ My current professional focus is:
 
 ## Selected Projects
 
-### 🏗️ [MHG Inventory](https://github.com/DHZ1LL10/MHG-Inventory)
-
-Inventory management platform designed around a production-oriented AWS architecture.
-
-**FastAPI · PostgreSQL · Docker · Terraform · GitHub Actions · AWS**
-
-- Backend architecture with service separation
-- Role-based access control
-- PostgreSQL persistence
-- Dockerized environments
-- Infrastructure as Code with Terraform
-- CI/CD workflow with GitHub Actions
-- AWS-oriented architecture using EC2, RDS, S3 and Route 53
-
----
-
 ### 🌱 [HuertoConnect API](https://github.com/DHZ1LL10/HuertoConnectAPI)
 
 Microservices backend for a smart-agriculture platform deployed on AWS.
 
 **Python · FastAPI · Docker · AWS EC2 · MongoDB · Machine Learning**
 
-- API Gateway as the public entry point
-- Internal microservices isolated through Docker networking
+- API Gateway and multiple backend services
+- Dockerized deployment on AWS EC2
 - JWT / OTP authentication flows
-- AI services for crop recommendation and pest detection
-- Production MVP deployed on AWS EC2
+- Machine Learning and computer-vision services
+- MongoDB and PostgreSQL persistence
+- Security-oriented service configuration and environment management
 
 ---
 
 ### 🚗 [Cloud Vehicle Telemetry](https://github.com/DHZ1LL10/cloud-devops)
 
-Cloud telemetry and automated alerting system for vehicle data.
+Cloud telemetry and automated alerting proof of concept for vehicle data.
 
-**AWS · Terraform · Docker · n8n · MongoDB**
+**AWS · Terraform · n8n · MongoDB**
 
-- AWS infrastructure provisioned with Terraform
-- Real-time telemetry ingestion through webhooks
+- AWS EC2 infrastructure provisioned with Terraform
+- Security Group configuration
+- Telemetry ingestion through webhooks
 - Automated event processing with n8n
 - MongoDB event persistence
 - Email alerts for critical telemetry conditions
 
 ---
 
-### 📡 [Offline-First Attendance API](https://github.com/DHZ1LL10/offline-first-attendance-api)
-
-Backend module designed for attendance systems operating under unreliable network conditions.
-
-**Node.js · Express · Prisma · MySQL**
-
-- Offline synchronization strategy
-- Server-side source of truth
-- Bulk synchronization endpoints
-- Attendance and overtime processing
-- Production-oriented API design
+> Additional backend, automation and infrastructure projects are currently private while being prepared for public portfolio release.
 
 ---
 
