@@ -90,6 +90,21 @@ Cloud telemetry and automated alerting proof of concept for vehicle data.
 
 ---
 
+### 🏛️ [MHG Arquitectos](https://github.com/DHZ1LL10/mhgarquitectos)
+
+Production website and interactive kitchen configurator developed for a real architecture business.
+
+**HTML · CSS · JavaScript · UX · SEO · Conversion Flows**
+
+- Live commercial website used by a real business
+- Interactive kitchen configurator and quotation workflow
+- PDF quotation generation
+- WhatsApp lead-generation integration
+- Responsive and accessibility-oriented UI
+- SEO and performance optimizations
+
+---
+
 > Additional backend, automation and infrastructure projects are currently private while being prepared for public portfolio release.
 
 ---
